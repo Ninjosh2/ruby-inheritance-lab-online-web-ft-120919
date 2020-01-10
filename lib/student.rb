@@ -1,6 +1,8 @@
 class Student < User 
   
-  attr_accessor :knowledge
+  attr_accessor :knowledge 
+  
+  
   
 
 end
